@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/suporte/Documents/Eclipse - Diretório/WORKSPACE JDBC/.metadata/.plugins/org.eclipse.jdt.core
+1956855528.index
+4154239352.index
